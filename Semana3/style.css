@@ -1,0 +1,20 @@
+h1 {
+    color: orange
+}
+
+p {
+    text-align: right;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.description{
+    font-weight: bold;
+    color: blue;
+}
+
+.especial {
+    background-color: aquamarine;
+}
